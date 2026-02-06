@@ -11,7 +11,7 @@
 
 - 💬 Ask me about  
   **🤖 AI & Machine Learning Applications**  
-  **🧠 Deep Learning (CNN, RNN, Transformers)**  
+  **🧠 Deep Learning**  
   **📸🔍 NLP & Computer Vision**  
   **🖼️ Image Search & Similarity Models**  
   **📊 Anomaly Detection & Fraud Prediction**  
