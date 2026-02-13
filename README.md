@@ -22,7 +22,5 @@
 
 - 📫 Reach me at **bhanodai2005@gmail.com**
 
-- 📄 Resume:  
-  **[View Resume](https://drive.google.com/file/d/1raksQ01zy98sytshwuniKZ4GPoHsXqad/view?usp=drivesdk)**
 
 - ⚡ Fun fact: I don't just train models — I design complete AI systems that integrate reasoning, APIs, and real-world workflows.
