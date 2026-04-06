@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhanodai</h1>
+<h1 align="center">Hi , I'm Bhanodai</h1>
 <h3 align="center">AI Systems Engineer | Building Scalable LLM & Vision Applications 🚀</h3>
 
 - 🔭 I’m currently building **LLM-powered Assistants & Production AI Systems**
